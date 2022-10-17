@@ -19,11 +19,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285875158363']
-global.ownernomer = "6285875158363"
+global.owner = ['6282129801595']
+global.ownernomer = "6282129801595"
 global.premium = ['6285875158363']
-global.packname = 'Sticker  Naze'
-global.author = 'Naze'
+global.packname = 'Sticker  Mazz'
+global.author = 'Mazz'
 global.sessionName = 'nazedev'  //jangan diganti bro nanti error
 global.prefa = ['','!','.','#','&']
 global.sp = ''
@@ -40,8 +40,8 @@ global.mess = {
     endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
 }
 global.limitawal = {
-    premium: "Infinity",
-    free: 25
+    premium: "Unlimited",
+    free: 50
 }
 global.thumb = fs.readFileSync('./image/naze.jpg')
 global.vaze = { url: 'https://telegra.ph/file/15209657f9d4f59c7ca1e.mp4' }
